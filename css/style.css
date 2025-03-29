@@ -86,8 +86,9 @@ main section .preparation {
   margin: 25px 0px;
 }
 
-main section .preparation h3 {
-  font-weight: 700;
+main section .preparation h2 {
+  font-family: "Outfit";
+  font-weight: 600;
   color: var(--rose-title);
 }
 
